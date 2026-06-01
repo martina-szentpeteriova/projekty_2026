@@ -25,7 +25,7 @@ It includes:
 
 ## 🎯 Purpose
 The goal of this repository is to:
-- demonstrate my programming skills across different languages
+- demonstrate my skills in active learning
 - show my progress during university studies
 - provide structured examples of documentation and analysis projects
 
@@ -38,5 +38,5 @@ The goal of this repository is to:
 
 ## ✨ Profile
 Martina Szentpéteriová
-- Software engineering (system design)
+- Software engineering bachelor's student (project design/ideas creation - creative thinking, quick at finding educational rescources and applying/understanding them in projects)
   
