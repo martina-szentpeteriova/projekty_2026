@@ -7,11 +7,11 @@ Year: 2026
 This repository contains a collection of my local PC projects created during my studies and personal practice.
 
 It includes:
--  **Coursework projects** (school assignments and documentation)
+**Coursework projects** (school assignments and documentation)
   - MATLAB – unemployment vs inflation analysis
   - Softcomputing - Machine Learning (analysis of tomato yield vs vitality)
   - Software engineering, Smart cities and other documentation (AI summarizer, smart building, etc.)
--  **Programming projects**
+**Programming projects**
   - Python (QR code generator)
   - C (book inventory system)
   - Java (console calculator)
