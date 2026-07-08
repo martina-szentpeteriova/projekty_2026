@@ -12,8 +12,8 @@ It includes:
   - C# (year-end finals projects for augumented and virtual reality)
   - MATLAB (unemployment vs inflation analysis)
   - Softcomputing/Python - Machine Learning (partner project analysis of tomato yield vs vitality from measured data of the samples of plants grown at school)
-  - Software engineering, Smart cities and other documentation (AI summarizer, smart building, etc.)
   - Smart building design idea - documentation (partner project designing an unused building in Bardejov)
+  - Software engineering, Smart cities and other documentation (AI summarizer, smart building design, group/partner projects etc.)
 - **Side projects**
   - Python (QR code generator)
   - C (book inventory system)
