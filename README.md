@@ -5,10 +5,21 @@ Year: 2026
 
 ## Description
 This repository contains a collection of my local PC projects created during my studies at Faculty of informatics University of Matej Bel and free time.
+## Links
+Links represent platforms of 
+[TINKERCAD] - (Profile) https://www.tinkercad.com/users/9Y3OclQ4xnE
+(intelligent fan) - https://www.tinkercad.com/things/5sNtWpLYEsm-intelligent-fandomaci-projekt8726?sharecode=0ekEBPlnCaHztIdM_XrfQDhhjbBT96KfI3i9fiU6Y9c
+(xor gate) - https://www.tinkercad.com/things/0Jx9jDemCeM-01pcsys2cv002ulohaxor-4?sharecode=Ts2FHlr0ET8DKjQxfH8W00oj1-8SQ1fbzYpNP-JtTJM
+(piezo alarm) - https://www.tinkercad.com/things/b0SGkYojCv2-prog1alarmledky-piezo-senzor25?sharecode=Dvfho257TQrlHQ5zP3DfCgvLS4AZJRe8NGTnvrMgaY4
+(piano) - https://www.tinkercad.com/things/b0SGkYojCv2-prog1alarmledky-piezo-senzor25?sharecode=Dvfho257TQrlHQ5zP3DfCgvLS4AZJRe8NGTnvrMgaY4
+(semaphore) - https://www.tinkercad.com/things/0fCDVoT7YzE-prog1semaforoba?sharecode=-DPnT0xCIyIf1_W3-UXefPMbSU8DJZ0RSTZLX7Gia_Q
+(fairylights) - [https://www.tinkercad.com/things/6N4Ep1HyTFk-prog1ledkyretaz-had?sharecode=1cedeuHu93Jf2udUITiiPZvoY8tFL6p3lu8YR-n5thQ](fairylights)
+[GITLAB] - https://gitlab.umb.sk/prg-3/projekty_2025-2026/theprocrastinators.git
+[MAIL] - martina.szentpeteriova@student.umb.sk
 
 It includes:
 - **Coursework projects** (school assignments and documentation)
-  - C++ (arduino projects like two-way semaphore, easy piano, fairylights)
+  - C++ (arduino projects like two-way semaphore, easy piano, fairylights) - (TINKERCAD LINK/S)
   - C# (year-end finals projects for augumented and virtual reality)
   - MATLAB (unemployment vs inflation analysis)
   - Softcomputing/Python - Machine Learning (partner project analysis of tomato yield vs vitality from measured data of the samples of plants grown at school)
